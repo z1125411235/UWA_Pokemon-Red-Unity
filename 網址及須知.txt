@@ -1,0 +1,8 @@
+版本:Unity 2019.2.17f1
+
+UWA網址__https://lab.uwa4d.com/lab/5b55f130d7f10a201fd76d25
+
+官方Github網址__https://github.com/CelestialAmber/Pokemon-Red-Unity
+
+本人Github網址__https://github.com/z1125411235/Pokemon-Red-Unity
+
